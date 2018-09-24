@@ -19,3 +19,5 @@ Tips
 3.安卓版本，需要下载Google play才能下载，因此需要另一个梯子下载应用；mac os和ios均需要在非大陆地区的appstore里才能下载
   
 4.[windows下载地址](https://raw.githubusercontent.com/Jigsaw-Code/outline-releases/master/client/stable/Outline-Client.exe)
+
+5.请勿使用此工具违反任何国家的任何法律！由此所引起的一切法律问题，概不负责，并保留追诉的权利。
